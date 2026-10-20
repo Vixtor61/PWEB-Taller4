@@ -49,4 +49,4 @@ const info = (req, res) => {
 
 }
 
-module.exports = {health}
+module.exports = {health,info}
